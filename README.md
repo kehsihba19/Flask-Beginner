@@ -6,7 +6,7 @@
 [Flask](https://flask.palletsprojects.com/) is a lightweight WSGI web application framework written in Python.
 
 
-Setup
+Initial Setup
 ----------
 
 First, set your app's secret key as an environment variable. For example,
@@ -24,9 +24,9 @@ environment variables ::
 
 Then run the following commands to bootstrap your environment ::
 
-    git clone https://github.com/gothinkster/flask-realworld-example-app.git
-    cd flask-realworld-example-app
-    pip install -r requirements/dev.txt
+    git clone repo-name
+    cd folder
+    pip3 install -r requirements.txt
 
 
 Run the following commands to create your app's
